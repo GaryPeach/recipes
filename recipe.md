@@ -1,4 +1,6 @@
-sample recipe markdown file
+#pepperoni pizza
+---
 
 * onions
 * pepperoni
+* dough
